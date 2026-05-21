@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+salidas/
+trenes_gtfs_mes.csv
+resultados.csv
+trenes.csv
